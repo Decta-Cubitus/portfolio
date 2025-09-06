@@ -1,4 +1,4 @@
-# ![Imagen Portfolio Web](https://github.com/Decta-Cubitus/portfolio/blob/master/Portfolio-web-joel.png).
+# ![Imagen Portfolio Web](https://github.com/Decta-Cubitus/portfolio/blob/master/Portfolio-web-joel.png)
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

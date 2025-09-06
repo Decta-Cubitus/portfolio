@@ -6,7 +6,7 @@
     "build": "next build",
     "dev": "next dev",
     "lint:fix": "next lint",
-    "start": "next start",
+    "start": "next start"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.1",

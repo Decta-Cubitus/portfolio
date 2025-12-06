@@ -121,7 +121,7 @@ importers:
         version: 1.4.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
       lib-utils-ts:
         specifier: ^0.0.0-test
-        version: 0.0.0-test(typescript@5.9.2)
+        version: 0.0.0-test(typescript@5.9.3)
       lucide-react:
         specifier: ^0.542.0
         version: 0.542.0(react@19.1.1)
@@ -194,7 +194,7 @@ importers:
         version: 1.4.0
       typescript:
         specifier: ^5
-        version: 5.9.2
+        version: 5.9.3
 
 packages:
 
@@ -2033,8 +2033,8 @@ packages:
   tw-animate-css@1.4.0:
     resolution: {integrity: sha512-7bziOlRqH0hJx80h/3mbicLW7o8qLsH5+RaLR2t+OHM3D0JlWGODQKQ4cxbK7WlvmUxpcj6Kgu6EKqjrGFe3QQ==}
 
-  typescript@5.9.2:
-    resolution: {integrity: sha512-CWBzXQrc/qOkhidw1OzBTQuYRbfyxDXJMVJ1XNwUHGROVmuaeiEm3OslpZ1RV96d7SKKjZKrSJu3+t/xlw3R9A==}
+  typescript@5.9.3:
+    resolution: {integrity: sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw==}
     engines: {node: '>=14.17'}
     hasBin: true
 
@@ -3455,10 +3455,10 @@ snapshots:
 
   js-tokens@4.0.0: {}
 
-  lib-utils-ts@0.0.0-test(typescript@5.9.2):
+  lib-utils-ts@0.0.0-test(typescript@5.9.3):
     dependencies:
       '@types/node': 14.18.63
-      ts-node: 9.1.1(typescript@5.9.2)
+      ts-node: 9.1.1(typescript@5.9.3)
     transitivePeerDependencies:
       - typescript
 
@@ -3828,21 +3828,21 @@ snapshots:
 
   tr46@0.0.3: {}
 
-  ts-node@9.1.1(typescript@5.9.2):
+  ts-node@9.1.1(typescript@5.9.3):
     dependencies:
       arg: 4.1.3
       create-require: 1.1.1
       diff: 4.0.2
       make-error: 1.3.6
       source-map-support: 0.5.21
-      typescript: 5.9.2
+      typescript: 5.9.3
       yn: 3.1.1
 
   tslib@2.8.1: {}
 
   tw-animate-css@1.4.0: {}
 
-  typescript@5.9.2: {}
+  typescript@5.9.3: {}
 
   undici-types@7.12.0: {}
 

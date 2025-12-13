@@ -123,8 +123,8 @@ importers:
         specifier: ^0.0.0-test
         version: 0.0.0-test(typescript@5.9.3)
       lucide-react:
-        specifier: ^0.542.0
-        version: 0.542.0(react@19.1.1)
+        specifier: ^0.561.0
+        version: 0.561.0(react@19.1.1)
       next:
         specifier: ^16.0.9
         version: 16.0.9(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
@@ -1687,8 +1687,8 @@ packages:
   lru-cache@10.4.3:
     resolution: {integrity: sha512-JNAzZcXrCt42VGLuYz0zfAzDfAvJWW6AfYlDBQyDV5DClI2m5sAmK+OIO7s59XfsRsWHp02jAJrRadPRGTt6SQ==}
 
-  lucide-react@0.542.0:
-    resolution: {integrity: sha512-w3hD8/SQB7+lzU2r4VdFyzzOzKnUjTZIF/MQJGSSvni7Llewni4vuViRppfRAa2guOsY5k4jZyxw/i9DQHv+dw==}
+  lucide-react@0.561.0:
+    resolution: {integrity: sha512-Y59gMY38tl4/i0qewcqohPdEbieBy7SovpBL9IFebhc2mDd8x4PZSOsiFRkpPcOq6bj1r/mjH/Rk73gSlIJP2A==}
     peerDependencies:
       react: ^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0
 
@@ -1735,6 +1735,7 @@ packages:
   next@16.0.9:
     resolution: {integrity: sha512-Xk5x/wEk6ADIAtQECLo1uyE5OagbQCiZ+gW4XEv24FjQ3O2PdSkvgsn22aaseSXC7xg84oONvQjFbSTX5YsMhQ==}
     engines: {node: '>=20.9.0'}
+    deprecated: This version has a security vulnerability. Please upgrade to a patched version. See https://nextjs.org/blog/security-update-2025-12-11 for more details.
     hasBin: true
     peerDependencies:
       '@opentelemetry/api': ^1.1.0
@@ -3513,7 +3514,7 @@ snapshots:
 
   lru-cache@10.4.3: {}
 
-  lucide-react@0.542.0(react@19.1.1):
+  lucide-react@0.561.0(react@19.1.1):
     dependencies:
       react: 19.1.1
 

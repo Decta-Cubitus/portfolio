@@ -44,7 +44,7 @@
     "cmdk": "1.1.1",
     "date-fns": "4.2.1",
     "embla-carousel-react": "8.6.0",
-    "geist": "^1.0.0",
+    "geist": "^1.7.1",
     "input-otp": "1.4.2",
     "lib-utils-ts": "^0.0.0-test",
     "lucide-react": "^0.542.0",

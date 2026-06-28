@@ -68,9 +68,6 @@
       "postcss": "^8.5.11"
     }
   },
-  "overrides": {
-    "postcss": "$postcss"
-  },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.3.1",
     "@testing-library/jest-dom": "^6.9.1",

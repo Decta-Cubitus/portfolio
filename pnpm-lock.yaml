@@ -136,7 +136,7 @@ importers:
         specifier: ^0.4.6
         version: 0.4.6(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
       postcss:
-        specifier: ^8.5.31
+        specifier: ^8.5.23
         version: 8.5.31
       react:
         specifier: ^19.2.7
